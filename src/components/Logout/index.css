@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.Logout-button {
+  cursor: pointer;
+  padding: 5px 15px;
+  border-radius: 7px;
+  border: none;
+}
